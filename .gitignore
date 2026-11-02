@@ -1,0 +1,6 @@
+node_modules/
+.env*
+.unlazy/
+.kingresume/
+local-output/
+*.log

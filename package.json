@@ -1,0 +1,17 @@
+{
+  "name": "kingresume",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "bin": {
+    "kingresume": "bin/kingresume.mjs"
+  },
+  "scripts": {
+    "resume": "node bin/kingresume.mjs",
+    "demo": "node scripts/demo.mjs",
+    "package-skill": "node scripts/package-skill.mjs"
+  }
+}
